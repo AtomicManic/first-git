@@ -1,3 +1,4 @@
 console.log("hello world");
 console.log("another line");
-alert("hello world");
+const hello = "hi";
+console.log("hi");
